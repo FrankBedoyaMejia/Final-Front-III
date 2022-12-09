@@ -1,3 +1,14 @@
+#Pendiente persolnal
+(Terminar estilos ponerlo prolijo
+terminar de poner las cosas simetricas 
+y ponerlo en el portafolio)
+
+
+
+
+
+
+
 # ctd-fe3-final
 
 Examen Final de Frontend III
